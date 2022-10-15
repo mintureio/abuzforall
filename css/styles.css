@@ -1,0 +1,144 @@
+.upper_banner {
+    width: 100%;
+    height: 242px;
+    border-radius: 0px 0px 40px 40px;
+    float: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.btnsmnubtns {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-family: roboto;
+    font-weight: bold;
+    margin-bottom: 0px;
+    padding: 10px;
+    border-radius: 9px;
+    margin: 35px;
+}
+.btnsmnubtns h1{
+    font-size: 15px;
+    padding: 10px;
+        margin-bottom: 0px;
+}
+.side_heading{
+    width: 100%;
+    float: left;
+    height: auto;
+    padding: 10px 0px;
+}
+.side_heading h1{
+    width: 100%;
+    float: left;
+    height: auto;
+    font-size: 29px;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.upperslidercschoicesc{
+    width: 100%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+.cschoice {
+    width: 100%;
+    height: 174px;
+    float: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    margin: 20px 0px;
+}
+.cstexts {
+    width: 90%;
+    padding: 30px 0px 0px 20px;
+    height: auto;
+    align-content: center;
+}
+.cstexts h1 {
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 30px;
+    float: left;
+    color: white;
+    width: 350px;
+}
+.cstexts p {
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 10px;
+    color: white;
+    width: 200px;
+}
+.cstexts h2 {
+    font-size: 10px;
+    font-family: space mono;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+.cstexts span {
+    width: 80px;
+    background-color: green;
+    float: left;
+    height: 20px;
+    border-radius: 6px;
+}
+.bg{
+    width: 100%;
+    float: left;
+    height: auto;
+ 
+   background-color: white;
+}
+.menubx {
+    width: 100%;
+    height: 223px;
+    float: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 9px;
+    margin: 15px 0px;
+}
+.menubx h2 {
+    font-size: 10px;
+    font-family: space mono;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+.menubx span {
+    width: 80px;
+    background-color: green;
+    float: right;
+    height: 20px;
+    border-radius: 0px 6px 0px 6px;
+}
+.menubx h1 {
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: white;
+    width: 90%;
+    text-align: center;
+    margin-top: 140px;
+}
+.menubx p {
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 5px;
+    color: white;
+   width: 90%;
+    text-align: center;
+       margin-left: auto;
+   margin-right: auto;
+   display: block;
+}
