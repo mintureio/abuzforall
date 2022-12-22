@@ -142,3 +142,143 @@
    margin-right: auto;
    display: block;
 }
+
+.mainbox{
+    width: 100%;
+    float: left;
+    height: auto;
+    background-color: white;
+}
+
+.mainbox img {
+    width: 100%;
+    height: 320px;
+/*    border-radius: 0px 0px 40px 40px;*/
+    float: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.namebox {
+    width: 100%;
+    height: auto;
+    float: left;
+    border-radius: 11px;
+    box-shadow: 0px 0px 36px -8px #000000;
+    position: absolute;
+    bottom: 0;
+}
+.namebox h1{
+padding: 10px;
+width: 100%;
+text-align: center;
+font-family: Space Mono;
+font-weight: bold;
+font-size: 25px;
+margin: 0px;
+}
+
+/*menupage*/
+
+
+.main_img{
+width: 100%;
+height: auto;
+float: left;
+}
+.main_img img{
+width: 100%;
+height: 100%;
+float: left;
+
+}
+.menu_main_sec{
+    width: 100%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+.name_sec{
+    width: 100%;
+    height: auto;
+    float: left;
+background-repeat: no-repeat !important;
+background-size: cover !important;
+}
+.namebx {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 36px -8px #000000;
+    background-color: white;
+    float: left;
+    margin-bottom: 50px;
+    margin-top: -24px;
+}
+.namebx h1{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-family: spacemono;
+    font-size: 25px;
+    margin: 0px;
+    padding: 10px;
+}
+.money_bx{
+    width: 100%;
+    float: left;
+    color: black;
+    background-color: #41DC65;
+    border-radius: 5px;
+}
+.money_bx p{
+    width: 100%;
+    text-align: center;
+    font-family: Space Mono;
+    font-size: 10px;
+margin: 0px;
+ padding: 5px 0px 5px 0px;
+}
+.review_bx{
+    width: 100%;
+    float: left;
+    color: black;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px -8px #000000;
+}
+.review_bx p{
+    width: 100%;
+    text-align: center;
+    font-family: Space Mono;
+    font-size: 10px;
+margin: 0px;
+ padding: 5px 0px 5px 0px;
+}
+.rect_box{
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-bottom: 25px;
+}
+.ingredients_box{
+    width: 100%;
+    height: auto;
+    float: left;
+}
+.ingredients{
+    width: 100%;
+    float: left;
+    height: auto;
+}
+.ingredients ul{
+    text-decoration: none;
+}
+.footer{
+    width: 100%;
+    height: auto;
+     box-shadow: 0px 0px 3px -8px #000000;
+     background-color: white;
+}
+.footer p{
+    float: right;
+}
